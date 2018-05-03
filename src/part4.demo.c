@@ -19,5 +19,7 @@ int main(void) {
 
 	/*window 1*/
 	/*window 2*/
+
+	/*merge 2 - linux*/
 	return EXIT_SUCCESS;
 }
