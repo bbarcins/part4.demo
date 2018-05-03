@@ -20,6 +20,10 @@ int main(void) {
 	/*window 1*/
 	/*window 2*/
 
+<<<<<<< HEAD
 	/*merge 2 - linux*/
+=======
+	/*merge1 - windows*/
+>>>>>>> github/master
 	return EXIT_SUCCESS;
 }
