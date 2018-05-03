@@ -25,5 +25,7 @@ int main(void) {
 =======
 	/*merge1 - windows*/
 >>>>>>> github/master
+
+rebase = windows
 	return EXIT_SUCCESS;
 }
