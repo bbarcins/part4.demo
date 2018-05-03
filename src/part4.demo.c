@@ -28,6 +28,7 @@ int main(void) {
 	/*merge1 - windows*/
 >>>>>>> github/master
 
+	/*example of fetch and rebase */
 <<<<<<< ba857bb5099e261eedd34fb14e7743439d7fb9af
 rebase = windows
 =======
