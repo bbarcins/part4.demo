@@ -36,6 +36,7 @@ rebase 2 - linux
 >>>>>>> rebase 2 demo
 
 	/*linux user*/
+	linux change 1
 
 	/*windows user*/
 	return EXIT_SUCCESS;
