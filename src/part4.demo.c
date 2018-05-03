@@ -34,5 +34,9 @@ rebase = windows
 =======
 rebase 2 - linux
 >>>>>>> rebase 2 demo
+
+	/*linux user*/
+
+	/*windows user*/
 	return EXIT_SUCCESS;
 }
