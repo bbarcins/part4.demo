@@ -20,12 +20,18 @@ int main(void) {
 	/*window 1*/
 	/*window 2*/
 
+	/*example of fetch and merge*/
+
 <<<<<<< HEAD
 	/*merge 2 - linux*/
 =======
 	/*merge1 - windows*/
 >>>>>>> github/master
 
+<<<<<<< ba857bb5099e261eedd34fb14e7743439d7fb9af
 rebase = windows
+=======
+rebase 2 - linux
+>>>>>>> rebase 2 demo
 	return EXIT_SUCCESS;
 }
