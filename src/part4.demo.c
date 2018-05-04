@@ -44,5 +44,7 @@ rebase 2 - linux
 	foodnote
 
 	new changes
+	fixed bug
+
 	return EXIT_SUCCESS;
 }
