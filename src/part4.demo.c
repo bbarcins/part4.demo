@@ -42,5 +42,7 @@ rebase 2 - linux
 	change 1 - windows
 
 	foodnote
+
+	new changes
 	return EXIT_SUCCESS;
 }
