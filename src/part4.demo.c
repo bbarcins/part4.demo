@@ -46,5 +46,7 @@ rebase 2 - linux
 	new changes
 	fixed bug
 
+	fixed second bug
+
 	return EXIT_SUCCESS;
 }
