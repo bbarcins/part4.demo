@@ -50,6 +50,7 @@ rebase 2 - linux
 
 	new 1
 	new 2
+	new 3
 
 	return EXIT_SUCCESS;
 }
